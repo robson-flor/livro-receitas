@@ -6,4 +6,5 @@ Olá! Bem vindo ao meu livro de receitas 🥞
 - Pavê
 - Empadão
 - Brigadeiro da vovó
-- pé de galinha
+- comida da mamãe - GitHub
+- pé de galinha 🐔 
